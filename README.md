@@ -41,3 +41,10 @@ in tag depedencies add dependency copy in maven like this:
 ### Step 5 
 
 Go to view -> Tool windowns -> maven see maven select. in right bar select lifecycle -> select clean and install in same time click on blue circle an run
+
+
+### Step 6
+
+in maven-compiler-plugin
+add tag source with atribute 8
+and tag target with the same atribute 8 save and repeat the step 5
